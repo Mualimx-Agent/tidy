@@ -1,0 +1,15 @@
+.env
+*.jks
+key.properties
+app/*/build/
+app/*/.dart_tool/
+app/*/.flutter-plugins*
+app/*/android/.gradle/
+backend/.venv/
+backend/__pycache__/
+backend/*.db
+.vscode/
+.idea/
+*.iml
+.DS_Store
+app/tidy_app/build/web/
