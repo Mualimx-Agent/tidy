@@ -29,7 +29,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.mualimx.tidy_app"
+        applicationId = "com.mualimx.tidy"
 minSdk = 23
         targetSdk = 36
         versionCode = 1
