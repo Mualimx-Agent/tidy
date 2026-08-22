@@ -19,7 +19,7 @@ val keystoreProperties = Properties().apply {
 }
 
 android {
-    namespace = "com.mualimx.tidy_app"
+    namespace = "com.mualimx.tidy"
     compileSdk = 36
     ndkVersion = flutter.ndkVersion
 
